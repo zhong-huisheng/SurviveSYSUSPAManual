@@ -4,3 +4,4 @@
 * [目录](mu-lu.md)
 * [如何搜集保研信息](ru-he-sou-ji-bao-yan-xin-xi.md)
 * [我们所追求的](wo-men-suo-zhui-qiu-de.md)
+* [锁相放大器-测试文件](锁相放大器.md)
